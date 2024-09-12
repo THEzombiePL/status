@@ -40,19 +40,19 @@
     "url": "https://dev.zombiebot.pl",
     "icon": "https://icons.duckduckgo.com/ip3/dev.zombiebot.pl.ico",
     "slug": "zombie-bot-beta",
-    "status": "down",
-    "uptime": "14.43%",
-    "uptimeDay": "14.43%",
-    "uptimeWeek": "14.43%",
-    "uptimeMonth": "14.43%",
-    "uptimeYear": "14.43%",
-    "time": 2036,
-    "timeDay": 2036,
-    "timeWeek": 2036,
-    "timeMonth": 2036,
-    "timeYear": 2036,
+    "status": "up",
+    "uptime": "10.63%",
+    "uptimeDay": "10.63%",
+    "uptimeWeek": "10.63%",
+    "uptimeMonth": "10.63%",
+    "uptimeYear": "10.63%",
+    "time": 1745,
+    "timeDay": 1745,
+    "timeWeek": 1745,
+    "timeMonth": 1745,
+    "timeYear": 1745,
     "dailyMinutesDown": {
-      "2024-09-12": 306
+      "2024-09-12": 434
     }
   }
 ]
