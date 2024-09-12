@@ -1,7 +1,7 @@
 url: https://dev.zombiebot.pl
-status: up
-code: 200
-responseTime: 529
-lastUpdated: 2024-09-12T18:27:32.974Z
+status: down
+code: 502
+responseTime: 2586
+lastUpdated: 2024-09-12T19:19:07.429Z
 startTime: 2024-09-12T13:21:19.385Z
 generator: Upptime <https://github.com/upptime/upptime>
