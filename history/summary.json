@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zombiebot.pl.ico",
     "slug": "zombie-bot",
     "status": "up",
-    "uptime": "79.69%",
-    "uptimeDay": "79.69%",
-    "uptimeWeek": "79.69%",
-    "uptimeMonth": "79.69%",
-    "uptimeYear": "79.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 496,
     "timeDay": 496,
     "timeWeek": 496,
     "timeMonth": 496,
     "timeYear": 496,
-    "dailyMinutesDown": {
-      "2024-09-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZombieBot - Status",
@@ -42,19 +40,19 @@
     "url": "https://dev.zombiebot.pl",
     "icon": "https://icons.duckduckgo.com/ip3/dev.zombiebot.pl.ico",
     "slug": "zombie-bot-beta",
-    "status": "down",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
-    "time": 2515,
-    "timeDay": 2515,
-    "timeWeek": 2515,
-    "timeMonth": 2515,
-    "timeYear": 2515,
+    "status": "up",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 1853,
+    "timeDay": 1853,
+    "timeWeek": 1853,
+    "timeMonth": 1853,
+    "timeYear": 1853,
     "dailyMinutesDown": {
-      "2024-09-12": 20
+      "2024-09-12": 306
     }
   }
 ]
