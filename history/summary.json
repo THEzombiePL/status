@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zombiebot.pl.ico",
     "slug": "zombie-bot",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.41%",
-    "time": 667,
-    "timeDay": 703,
-    "timeWeek": 666,
+    "uptimeYear": "99.42%",
+    "time": 665,
+    "timeDay": 553,
+    "timeWeek": 665,
     "timeMonth": 688,
-    "timeYear": 667,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2024-11-13": 394
     }
