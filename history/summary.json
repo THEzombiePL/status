@@ -4,18 +4,19 @@
     "url": "https://zombiebot.pl",
     "icon": "https://icons.duckduckgo.com/ip3/zombiebot.pl.ico",
     "slug": "zombie-bot",
-    "status": "up",
-    "uptime": "99.60%",
+    "status": "down",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 646,
     "timeDay": 695,
     "timeWeek": 613,
     "timeMonth": 612,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2024-12-21": 0,
       "2024-11-13": 394
     }
   }
