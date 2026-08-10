@@ -4,17 +4,17 @@
     "url": "https://zombiebot.pl",
     "icon": "https://icons.duckduckgo.com/ip3/zombiebot.pl.ico",
     "slug": "zombie-bot",
-    "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.68%",
-    "uptimeMonth": "93.29%",
-    "uptimeYear": "97.91%",
-    "time": 1933,
-    "timeDay": 10003,
-    "timeWeek": 6444,
-    "timeMonth": 4103,
-    "timeYear": 2311,
+    "status": "up",
+    "uptime": "98.32%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "93.05%",
+    "uptimeYear": "97.89%",
+    "time": 1934,
+    "timeDay": 7020,
+    "timeWeek": 5954,
+    "timeMonth": 4027,
+    "timeYear": 2307,
     "dailyMinutesDown": {
       "2025-08-19": 34,
       "2025-08-23": 44,
@@ -55,7 +55,8 @@
       "2026-07-25": 349,
       "2026-07-31": 58,
       "2026-08-06": 707,
-      "2026-08-05": 635
+      "2026-08-05": 635,
+      "2026-08-10": 108
     }
   }
 ]
